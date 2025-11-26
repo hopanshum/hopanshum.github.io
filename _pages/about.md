@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:#e26d00;font-weight:400;font-size:17px"> Applied Theory • Network Economics • Industrial Organization </span><p>Department of Economics, National Chung Cheng University</p> <p>petershum [at] ccu [dot] edu [dot] tw</p>
+subtitle: <span style="color:#e26d00;font-weight:400;font-size:17px"> Applied Theory • Network Economics • Industrial Organization </span> <br/> <b>Assistant Professor at</b> <a href="https://econ.ccu.edu.tw/?Lang=en">National Chung Cheng University</a> &#x2022; <b>PhD from</b> <a href="https://econ.duke.edu/">Duke University</a> <br/> <p>petershum [at] ccu [dot] edu [dot] tw</p>
 
 profile:
   align: right
