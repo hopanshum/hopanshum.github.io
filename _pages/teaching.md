@@ -21,7 +21,7 @@ nav_order: 3
 
 <h2 style="font-variant: small-caps;">Qualification</h2>
 
-* <b>Coming Soon:</b> Certificate of College Teaching
+* Certificate of College Teaching from Duke University
 
 <h2 style="font-variant: small-caps;">Teaching Statement</h2>
 
