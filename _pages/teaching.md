@@ -9,8 +9,14 @@ nav_order: 3
 
 <h2 style="font-variant: small-caps;">Instructor</h2>
 
+- <b>Fall 2025-2026: </b> Game Theory I (English).
+- <b>Fall 2025-Now: </b> Principles of Economics I & II (English).
 - <b>Summer 2024: </b> ECON205 ‑ Intermediate Microeconomics II.
 - <b>Summer 2021, 2022: </b> ECON700 ‑ Mathematics for Economists (math camp for Ph.D. students)
+  
+<h2 style="font-variant: small-caps;">Tools</h2>
+
+- [Interactive demo: Gale–Shapley deferred acceptance](/gale-shapley.html)
 
 <h2 style="font-variant: small-caps;">Assistant</h2>
 
@@ -21,7 +27,8 @@ nav_order: 3
 
 <h2 style="font-variant: small-caps;">Qualification</h2>
 
-- Certificate of College Teaching from Duke University
+- Certificate of College Teaching from Duke University (2025 Spring)
+- English as Medium of Instruction Teacher Personal Development Program from National Cheng Kung University (2026 Spring)
 
 <h2 style="font-variant: small-caps;">Teaching Statement</h2>
 
