@@ -16,5 +16,3 @@ needed:
 
 preferred:
 work on models that are more complicated than undergraduate theory
-
-doing all this, while conducts a research to my standard, is not going to do well in academia

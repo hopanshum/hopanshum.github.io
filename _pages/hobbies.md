@@ -2,8 +2,7 @@
 layout: page
 permalink: /hobbies/
 title: Hobbies
-nav: true
-#change to true
+nav: false
 nav_order: 7
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /diversity/
 title: Diversity
-nav: true
+nav: false
 nav_order: 5
 ---
 
