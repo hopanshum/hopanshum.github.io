@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <h2 style="font-variant: small-caps;">About</h2>
-I am an applied theorist at the Economics Department of the National Chung Cheng University, located at the lovely county of Chiayi in Taiwan. My research focuses on applied game theory in network settings, with interests in Industrial Organization, Political Economy, and Urban Economics. I have worked on projects involving networked markets, company hierarchies, demand estimation, and polarization.
+I am an applied theorist at the Economics Department of the National Chung Cheng University, located at the lovely county of Chiayi in Taiwan. My research studies information intermediaries: middle managers who relay information through organizations, lobbying institution which supplies information to politicians, journalists who produce information under a shared reputation, and human or AI summarizers who aggregate information for readers. Each project starts from an empirical puzzle (why middle managers report the highest burnout, why politicians polarize despite the median voter pull, why readers prefer human summaries for small tasks but AI for large ones) and builds a game-theoretic model that identifies the mechanism. I have also worked on projects involving networked markets and demand estimation in my early career.
 
 I am interested in teaching economics as part of a liberal arts education. I have been an instructor and teaching assistant for various courses, including Introductory Principles of Economics, Intermediate Microeconomics, Game Theory, and Graduate Microeconomics.
 
